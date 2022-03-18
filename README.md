@@ -1,3 +1,3 @@
 # Apason
 
-Source Codes for Matlab testing of Apasōn and its subsystem.
+Source Codes for Matlab testing of Apasōn and its subsystems.
